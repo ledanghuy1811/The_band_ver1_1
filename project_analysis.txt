@@ -1,0 +1,13 @@
+1. Analysis (phân tích)
+	a. Header
+	b. Slider
+	c. Content
+		+ About
+		+ Tour
+		+ Contact
+		+ Image
+		+ Footer
+	d. Footer
+2. Build base (dựng nền)
+3. Build each part which was analysed(xây dựn từng phần theo phân tích)
+4. Complete project (hoàn thiện)
